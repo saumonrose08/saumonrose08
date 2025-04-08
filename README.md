@@ -1,7 +1,8 @@
 
 
 - 📚 Education
-NHN Academy AIoT Java Backend 2기 교육 수료 (2024.09 - 2025.06)/n
+NHN Academy AIoT Java Backend 2기 교육 수료 (2024.09 - 2025.06)
+
 Pukyong National University (2020.03 - 2025.02)
 
 <!---
