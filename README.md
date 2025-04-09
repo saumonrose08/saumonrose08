@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/7c500ef6-3b31-4531-9bf8-ffa332c31dbb)
 
 
 - 📚 Education
