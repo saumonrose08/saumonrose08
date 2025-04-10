@@ -6,6 +6,8 @@
 
   - Pukyong National University (2020.03 - 2025.02)
 
+  - Gimahae Foreign Language HighSchool (2017.03 - 2020.02) 
+
 <!---
 saumonrose08/saumonrose08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
